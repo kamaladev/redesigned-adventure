@@ -1,0 +1,77 @@
+body,html
+{
+font-family: 'Mukta Mahee', sans-serif;
+}
+
+a.brand-ahref {
+    color: yellow;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.brand {
+    margin-top: 10px;
+    margin-left: 50px;
+    color: yellow;
+}
+ul#myNavbar {
+    text-transform: uppercase;
+    margin-right: 70px;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover
+{
+    color:yellow;
+}
+#myNavbar>li>a
+{
+	color:white;
+}
+#myNavbar>li>a:hover
+{
+	color:yellow;
+}
+img.caro-img {
+    width: 100%;
+    height: 350px;
+}
+.carousel-caption
+{
+	margin-top:-50%;
+	margin-bottom:30%;
+	color: yellow;
+}
+.caro-capt-text
+{
+	color:yellow;
+	background-color: transparent;
+	line-height: 1.5;
+	text-transform: uppercase;
+}
+.col-md-12.col-lg-12.col-xs-12.text-center {
+    height: 300px;
+    padding-top: 100px;
+    text-transform: uppercase;
+    color: purple;
+    line-height: 2;
+}
+img.img-circle {
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+}
+.col-lg-6.col-xs-6.col-md-6.text-left {
+    color: grey;
+    border-left///: 3px solid pink;
+    list-style-type:square;
+    }
+    .circle-dot {
+   height: 20px;
+    width: 20px;
+    background-color: red;
+    border-radius: 10px;
+    margin-left: 575px;
+    /* background-color: white; */
+}
+l-lg-6.col-xs-6.col-md-6.text-right {
+    border-right: 2px solid;
+}
